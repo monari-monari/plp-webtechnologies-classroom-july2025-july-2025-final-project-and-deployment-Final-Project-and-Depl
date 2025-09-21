@@ -49,5 +49,10 @@ script.js       # JavaScript file for interactivity (navigation, recipes, planne
 - **Images:** Sourced from [Pinterest](https://www.pinterest.com/) and free-to-use stock photo sites.
 - **Inspiration:** African cuisine and culture.
 
+## Live URL
+[ https://afrimeal-planner.netlify.app/ ]
+
+
 **Author:** Sylvia W. Monari
+
 
